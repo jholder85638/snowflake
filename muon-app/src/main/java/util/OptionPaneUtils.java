@@ -8,7 +8,7 @@ import java.awt.Component;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
-import muon.app.ui.components.SkinnedTextField;
+import zmcommand.app.ui.components.SkinnedTextField;
 
 /**
  * @author subhro

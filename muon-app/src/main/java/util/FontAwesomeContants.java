@@ -8,7 +8,7 @@ package util;
  *
  */
 public interface FontAwesomeContants {
-	static final String FA_CUBE = "\uf1b2", FA_FOLDER = "\uf07b", FA_PENCIL_SQUARE_O = "\uf044", FA_BARS = "\uf0c9",
+	static final String FA_JAVA = "\uf6e3", FA_MAILQUEUE = "\uf674", FA_CUBE = "\uf1b2", FA_FOLDER = "\uf07b", FA_PENCIL_SQUARE_O = "\uf044", FA_BARS = "\uf0c9",
 			FA_TERMINAL = "\uf120", FA_HDD_O = "\uf0a0", FA_SEARCH = "\uf002", FA_BOLT = "\uf0e7",
 			FA_STICKY_NOTE_O = "\uf24a", FA_FOLDER_O = "\uf114", FA_SLIDERS = "\uf1de", FA_FOLDER_OPEN_O = "\uf115",
 			FA_LAPTOP = "\uf109", FA_TELEVISION = "\uf26c", FA_PLUS_SQUARE = "\uf0fe", FA_WINDOW_CLOSE = "\uf2d3",
@@ -23,5 +23,5 @@ public interface FontAwesomeContants {
 			FA_FILE_WORD_O = "\uf1c2", FA_FILE_POWERPOINT_O = "\uf1c4", FA_FILE_PDF_O = "\uf1c1",
 			FA_FILE_ARCHIVE_O = "\uf1c6", FA_FILE_CODE_O = "\uf1c9", FA_FILE_EXCEL_O = "\uf1c3",
 			FA_FILE_IMAGE_O = "\uf1c5", FA_FILE_VIDEO_O = "\uf1c8", FA_FILE_AUDIO_O = "\uf1c7", FA_DOWNLOAD = "\uf019",
-			FA_TRASH = "\uf1f8";
+			FA_TRASH = "\uf1f8", FA_MICROCHIP = "\uf2db";
 }

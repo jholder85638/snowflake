@@ -10,7 +10,7 @@ import java.util.UUID;
 import javax.swing.JOptionPane;
 import javax.swing.JPasswordField;
 
-import muon.app.ssh.RemoteSessionInstance;
+import zmcommand.app.ssh.RemoteSessionInstance;
 
 //import snowflake.common.ssh.SshClient;
 

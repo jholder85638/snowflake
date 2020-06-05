@@ -3,7 +3,6 @@
  */
 package util;
 
-import java.awt.Desktop;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -22,8 +21,8 @@ import com.sun.jna.platform.win32.WinReg;
 import com.sun.jna.platform.win32.WinReg.HKEY;
 import com.sun.jna.win32.StdCallLibrary;
 
-import muon.app.App;
-import muon.app.ui.components.settings.EditorEntry;
+import zmcommand.app.App;
+import zmcommand.app.ui.components.settings.EditorEntry;
 
 /**
  * @author subhro

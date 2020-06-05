@@ -2,8 +2,8 @@ package util;
 
 import java.util.Locale;
 
-import muon.app.common.FileInfo;
-import muon.app.common.FileType;
+import zmcommand.app.common.FileInfo;
+import zmcommand.app.common.FileType;
 
 public class FileIconUtil {
 	public static String getIconForType(FileInfo ent) {

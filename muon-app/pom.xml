@@ -201,7 +201,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>muon.app.App</mainClass>
+							<mainClass>zmcommand.app.App</mainClass>
 						</manifest>
 						<compress>false</compress>
 					</archive>
